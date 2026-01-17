@@ -234,7 +234,7 @@ button:focus:not(:focus-visible) {
 
 }
 
-.contact-info p{    
+.contact-info a{    
     font-size: large;
     display: flex;
     align-items: center; /* alinha ícone e texto */
